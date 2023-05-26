@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1679994801 source:c:\users\j0960\desktop\guessword\guessword\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<stdbool.h>
+
